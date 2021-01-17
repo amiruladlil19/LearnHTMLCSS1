@@ -1,8 +1,28 @@
-h1{ color: blue;}
 
-h1{
-    font-family: "Courier New";
+h1{font: italic bold 30px helvetica;
+    font-variant: small-caps;
     text-align: center;
-    font-size: 30px
-    color: red
+    color: skyblue;
+    word-spacing: 10px;
+    }
+
+    
+
+body {
+    font: italic normal bold 16px/18px helvetica,arial,sans-serif;
+    color: #8d92aa;
+    background: url(../selflearncss/5887bb7cbc2fc2ef3a186029.png) #fff889 no-repeat center;
 }
+/* font-style font-variant font-weight font-size/line-height font-family */
+
+p {
+    font-family: georgia, serif;
+    font-weight: bold;
+    color: rgb(666, 69,420);
+    text-align: justify;
+    text-indent: 100px;
+
+    
+}
+
+a {text-decoration: none;}
